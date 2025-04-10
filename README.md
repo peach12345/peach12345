@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @peach12345
 - 👀 I’m interested in programming, technical stuff, sports, music etc.
-- 🌱 I’m currently learning flutter/dart
